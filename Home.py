@@ -66,15 +66,15 @@ st.sidebar.markdown(
     <div style="text-align:center;">
 
     <a href="https://www.linkedin.com/in/guilherme-gonçalves-guimarães-5a407a281/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30">
     </a>
 
     <a href="https://www.instagram.com/gui2021br/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30">
     </a>
 
     <a href="https://wa.me/5543991785400" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="30">
     </a>
 
     </div>
@@ -131,4 +131,5 @@ st.set_page_config(
     page_title='Home',
     page_icon='📈'
 )
+
 
