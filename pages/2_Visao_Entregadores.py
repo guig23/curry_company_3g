@@ -9,7 +9,7 @@ from PIL import Image
 import folium 
 from streamlit_folium import folium_static
 #Carregar o arquivo 
-df1 = pd.read_pickle('dflimpo.pkl')
+df1 = pd.read_pickle('pages/dflimpo.pkl')
 df = df1.copy()
 #print(df.dtypes)
 st.set_page_config( page_title='Visão Entregadores', page_icon='🏍️', layout='wide')
@@ -239,4 +239,5 @@ with tab1:
 #df_aux02 = df2.loc[df2['City'] == 'Urban ', :].head(10)
 #df_aux03 = df2.loc[df2['City'] == 'Semi-Urban ', :].head(10)
 #df3 = pd.concat([df_aux01, df_aux02, df_aux03]).reset_index(drop=True)
+
 #print(df3)
