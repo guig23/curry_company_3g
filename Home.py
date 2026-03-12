@@ -123,8 +123,6 @@ st.markdown(
     #####    - Acompanhamento dos indicadores semanais de crescimento
     ### - Visão Restaurante:
     #####    - Indicadores semanais de crescimento dos restaurantes
-        
-    ### Mais Informações, entre em contato: 
      """
     )
 
@@ -133,3 +131,4 @@ st.set_page_config(
     page_title='Home',
     page_icon='📈'
 )
+
