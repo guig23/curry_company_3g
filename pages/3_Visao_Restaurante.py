@@ -10,7 +10,7 @@ import folium
 import numpy as np 
 from streamlit_folium import folium_static
 #Carregar o arquivo 
-df1 = pd.read_pickle('dflimpo.pkl')
+df1 = pd.read_pickle('pages/dflimpo.pkl')
 df = df1.copy()
 
 st.set_page_config( page_title='Visão Restaurante', page_icon='🍟', layout='wide')
@@ -318,4 +318,5 @@ with tab1:
 #    folium.Marker([location_info['Delivery_location_latitude'],
 #                   location_info['Delivery_location_longitude']], popup = location_info[['City', 'Road_traffic_density']]).add_to(map)
 #    map.save('mapa.html')
+
 #webbrowser.open('mapa.html')
