@@ -10,7 +10,7 @@ import folium
 from streamlit_folium import folium_static
 
 #Carregar o arquivo 
-df1 = pd.read_pickle('dflimpo.pkl')
+df1 = pd.read_pickle('pages/dflimpo.pkl')
 df = df1.copy()
 #print(df.dtypes)
 
@@ -291,3 +291,4 @@ with tab3:
 
 #3.O tempo médio e o desvio padrão de entrega por cidade.
 #Retirando o o termo '(min)_' da coluna Time_Taken 
+
