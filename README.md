@@ -14,7 +14,7 @@ O **Curry Company Marketplace Dashboard** é uma solução de inteligência de n
 
 O painel interativo está totalmente operacional e pode ser acessado em:
  **[Acesse meu Dashboard no Streamlit Cloud](https://guilhermeguimaraesprojetocurrycompany2026.streamlit.app/Visao_Empresa)**
-
+![Dashboard Curry Company](dashcurry.png.jpeg)
 ---
 
 ## 1. O Problema de Negócio
@@ -89,7 +89,6 @@ O painel interativo foi desenhado para expor as métricas organizadas em abas de
 ## 7. O Produto Final
 
 O resultado prático deste projeto é um ecossistema de dados interativo web, onde o CEO pode aplicar filtros dinâmicos por data, condições de trânsito ou tipo de cidade, obtendo respostas instantâneas para tomada de decisão estratégica.
-![Dashboard Curry Company](dashcurry.png.jpeg)
 ---
 
 ## 8. Conclusões
