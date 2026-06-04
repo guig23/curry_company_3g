@@ -89,7 +89,7 @@ O painel interativo foi desenhado para expor as métricas organizadas em abas de
 ## 7. O Produto Final
 
 O resultado prático deste projeto é um ecossistema de dados interativo web, onde o CEO pode aplicar filtros dinâmicos por data, condições de trânsito ou tipo de cidade, obtendo respostas instantâneas para tomada de decisão estratégica.
-
+![Dashboard Curry Company](dashcurry.png)
 ---
 
 ## 8. Conclusões
