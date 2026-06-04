@@ -90,9 +90,6 @@ O painel interativo foi desenhado para expor as métricas organizadas em abas de
 
 O resultado prático deste projeto é um ecossistema de dados interativo web, onde o CEO pode aplicar filtros dinâmicos por data, condições de trânsito ou tipo de cidade, obtendo respostas instantâneas para tomada de decisão estratégica.
 
-### Tela do Dashboard (Exemplo):
-> *Dica: Insira aqui um print de tela bem bonito do seu Streamlit ativo!*
-
 ---
 
 ## 8. Conclusões
@@ -109,4 +106,4 @@ Como iterações futuras para este projeto, estão planejadas:
 3. **Modelagem Preditiva:** Adicionar uma nova visão de negócio voltada à previsão de demanda e tempo de entrega utilizando algoritmos de Machine Learning.
 
 ---
-Desenvolvido por **Guilherme Gonçalves Guimarães**. Conecte-se comigo no [LinkedIn](SEU_LINK_DO_LINKEDIN_AQUI) para acompanhar a minha transição para Ciência de Dados!
+Desenvolvido por **Guilherme Gonçalves Guimarães**. Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/guilherme-goncalves-guimaraes-data-scientist/) para acompanhar a minha transição para Ciência de Dados!
